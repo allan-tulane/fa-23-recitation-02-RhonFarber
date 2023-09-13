@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "autograde",
-      "setup": "sudo -H pip3 install pytest, tabulate",
+      "setup": "sudo -H pip3 install pytest tabulate",
       "run": "pytest test_main.py",
       "input": "",
       "output": "",
